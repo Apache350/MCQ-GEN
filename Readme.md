@@ -1,0 +1,1 @@
+This is my first commit for this project with the structure. I am excited to see where this project takes me. I am looking forward to learning Langchain

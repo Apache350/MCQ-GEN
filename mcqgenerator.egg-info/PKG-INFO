@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.1
+Author: Vishal Tiwari
+Author-email: vishaltiwari5984@gmail.com
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: openai
+Requires-Dist: PyPDF2
+Requires-Dist: python-dotenv
