@@ -8,3 +8,4 @@ Requires-Dist: streamlit
 Requires-Dist: openai
 Requires-Dist: PyPDF2
 Requires-Dist: python-dotenv
+Requires-Dist: langchain_community
